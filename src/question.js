@@ -1,5 +1,4 @@
 class Question {
-    // YOUR CODE HERE:
     constructor(text, choices, answer, difficulty) {
         this.text = text;
         this.choices = choices;
